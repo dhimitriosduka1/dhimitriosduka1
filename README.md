@@ -34,9 +34,14 @@
 
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
-          
-
 <br/>
+
+
+#
+
+
+### 📈 Stats
+![Dhimitrios's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimitriosduka1&show_icons=true&theme=gruvbox)
 
 <!--
 **dhimitriosduka1/dhimitriosduka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
