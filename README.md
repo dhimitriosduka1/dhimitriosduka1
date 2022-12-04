@@ -43,6 +43,8 @@
 ### 📈 Stats
 ![Dhimitrios's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimitriosduka1&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimitriosduka1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dhimitriosduka1/dhimitriosduka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
